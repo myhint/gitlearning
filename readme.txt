@@ -15,3 +15,5 @@ off duty on 20180707.
 branch manage strategy test.
 
 test merge using Fast-forward mode.
+
+stash multiple test.

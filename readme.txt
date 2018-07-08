@@ -1,6 +1,6 @@
 # 说明文档
 
-git learn
+git learn:create branch for issue solve!
 
 git is a distributed version controll system.
 git is a free software distributed under the GPL.

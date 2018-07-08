@@ -11,3 +11,5 @@ Creating a branch is quick.
 edit something on the master branch.
 Creating a new branch is quick AND simple.
 off duty on 20180707.
+
+branch manage strategy test.
